@@ -2,16 +2,16 @@
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100px"></img>
 </div>
 <div id="badges" align='center'>
-  <a href="https://www.linkedin.com/in/saragadam-sai-prasad/" target="_blank">
+  <a href="https://www.linkedin.com/in/saragadam-sai-prasad/" target=”_blank”>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/saragadamsaipra2?hr_r=1" target="_blank">
+  <a href="https://www.hackerrank.com/saragadamsaipra2?hr_r=1" target=”_blank”>
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/saragadamsaipra2?hr_r=1" target="_blank">
+  <a href="https://www.hackerrank.com/saragadamsaipra2?hr_r=1" target=”_blank”>
     <img src="https://img.shields.io/badge/hackerrank-050c18?style=for-the-badge&logo=hackerrank" alt="hackerrank Badge"/>
   </a>
-  <a href="https://leetcode.com/ssaiprasad_1/" target="_blank">
+  <a href="https://leetcode.com/ssaiprasad_1/" target=”_blank”>
     <img src="https://img.shields.io/badge/leetcode-040505?style=for-the-badge&logo=leetcode" alt="leetcode Badge"/>
   </a>
   <div><img src="https://komarev.com/ghpvc/?username=ssprasad-cyber&style=flat-square&color=blue" alt=""/>
