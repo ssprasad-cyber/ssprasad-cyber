@@ -22,7 +22,25 @@
     <img src="https://image.lexica.art/full_jpg/5ff44423-e894-4b8a-ad47-6805fed2e0e1" width="50%"></img>
      <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="20%"></img>
  </div>
+<hr>
+
+### :man_technologist: About Me :
+
+I am a frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+:school:student at gayatri vidya parishad college for degree and pg courses<br>
+📖:parsuring computer science specilization of artifical intelligence and machine learning.
+
+- :office:intern at spotmies LLP.
+
+- :seedling: exploring content creation.
+
+- :zap: In my free time, I solve problems on hackerrank and leetcode.
+
+- passionate on AI
+
+- programming: [![Hackerrank Badge](https://img.shields.io/badge/-hackerrank-050c18?style=flat&logo=hackerrank)](https://www.linkedin.com/in/saragadam-sai-prasad/)
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saragadam-sai-prasad/)
  
- <div>
-  <h4>ABOUT ME:</h4>
- </div>
+
