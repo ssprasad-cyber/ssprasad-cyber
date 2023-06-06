@@ -39,7 +39,7 @@ I am a frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - passionate on AI
 
-- programming: [![Hackerrank Badge](https://img.shields.io/badge/-hackerrank-050c18?style=flat&logo=hackerrank)](https://www.linkedin.com/in/saragadam-sai-prasad/)
+- programming: [![Hackerrank Badge](https://img.shields.io/badge/-hackerrank-050c18?style=flat&logo=hackerrank)](https://www.hackerrank.com/saragadamsaipra2?hr_r=1)
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saragadam-sai-prasad/)
  
