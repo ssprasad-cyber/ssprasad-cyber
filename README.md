@@ -14,8 +14,10 @@
   <div><img src="https://komarev.com/ghpvc/?username=ssprasad-cyber&style=flat-square&color=blue" alt=""/>
   </div>
   <div><h2>hey there  &#x1F44B;</h2></div>
-</div>
+</div >
 
-<div>
-    
+<div align="center" >
+    <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="20%"></img>
+    <img src="https://image.lexica.art/full_jpg/5ff44423-e894-4b8a-ad47-6805fed2e0e1" width="50%"></img>
+     <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="20%"></img>
  </div>
