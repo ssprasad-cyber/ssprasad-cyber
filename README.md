@@ -17,7 +17,7 @@
   <div><img src="https://komarev.com/ghpvc/?username=ssprasad-cyber&style=flat-square&color=blue" alt=""/>
   </div>
   <div><h2>hey there  &#x1F44B;</h2></div>
-  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif">
+  <img width="40%" src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif">
 </div >
 
 <div align="center" >
