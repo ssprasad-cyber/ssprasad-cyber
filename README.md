@@ -5,11 +5,14 @@
   <a href="https://www.linkedin.com/in/saragadam-sai-prasad/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="">
+  <a href="https://www.hackerrank.com/saragadamsaipra2?hr_r=1">
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="">
     <img src="https://img.shields.io/badge/hackerrank-050c18?style=for-the-badge&logo=hackerrank" alt="Twitter Badge"/>
+  </a>
+  <a href="https://leetcode.com/ssaiprasad_1/">
+    <img src="https://img.shields.io/badge/leetcode-040505?style=for-the-badge&logo=leetcode" alt="Twitter Badge"/>
   </a>
   <div><img src="https://komarev.com/ghpvc/?username=ssprasad-cyber&style=flat-square&color=blue" alt=""/>
   </div>
@@ -39,7 +42,7 @@ I am a frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - passionate on AI
 
-- programming: [![Hackerrank Badge](https://img.shields.io/badge/-hackerrank-050c18?style=flat&logo=hackerrank)](https://www.hackerrank.com/saragadamsaipra2?hr_r=1)
+- programming: [![Hackerrank Badge](https://img.shields.io/badge/-hackerrank-050c18?style=flat&logo=hackerrank)](https://www.hackerrank.com/saragadamsaipra2?hr_r=1),[![leetcode Badge](https://img.shields.io/badge/-leetcode-040505?style=flat&logo=leetcode)](https://leetcode.com/ssaiprasad_1/)
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saragadam-sai-prasad/)
  
