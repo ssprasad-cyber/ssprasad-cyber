@@ -5,10 +5,10 @@
   <a href="https://www.linkedin.com/in/saragadam-sai-prasad/" target=”_blank”>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/ssprasad01" target=”_blank”>
+  <a href="https://www.instagram.com/ssprasad.ai/" target=”_blank”>
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/saragadamsaipra2?hr_r=1" target=”_blank”>
+  <a href="https://www.hackerrank.com/profile/ssprasad01" target=”_blank”>
     <img src="https://img.shields.io/badge/hackerrank-050c18?style=for-the-badge&logo=hackerrank" alt="hackerrank Badge"/>
   </a>
   <a href="https://leetcode.com/ssaiprasad_1/" target=”_blank”>
