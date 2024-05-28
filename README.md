@@ -52,6 +52,9 @@ I am a frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssprasad-cyber&theme=github"
 </p>
+ <p align="center" style="width: 100%;">
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/ssprasad-cyber/ssprasad-cyber/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="ssprasad-cyber" />
+</p>
 <hr>
 ### :hammer_and_wrench: Languages and Tools :
 
