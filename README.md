@@ -8,10 +8,10 @@
   <a href="https://www.instagram.com/ssprasad.ai/" target=”_blank”>
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/ssprasad01" target=”_blank”>
+<!--   <a href="https://www.hackerrank.com/profile/ssprasad01" target=”_blank”> -->
     <img src="https://img.shields.io/badge/hackerrank-050c18?style=for-the-badge&logo=hackerrank" alt="hackerrank Badge"/>
   </a>
-  <a href="https://leetcode.com/ssaiprasad_1/" target=”_blank”>
+<!--   <a href="https://leetcode.com/ssaiprasad_1/" target=”_blank”> -->
     <img src="https://img.shields.io/badge/leetcode-040505?style=for-the-badge&logo=leetcode" alt="leetcode Badge"/>
   </a>
   <div><img src="https://komarev.com/ghpvc/?username=ssprasad-cyber&style=flat-square&color=blue" alt=""/>
