@@ -34,7 +34,6 @@ I am a frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 :school:student at gayatri vidya parishad college for degree and pg courses<br>
 📖:parsuring computer science specilization of artifical intelligence and machine learning.
 
-- :office:intern at spotmies LLP.
 
 - :seedling: exploring content creation.
 
