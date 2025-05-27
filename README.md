@@ -75,4 +75,5 @@ I am a frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 
 
+![Metrics](https://github.com/ssprasad-cyber/ssprasad-cyber/blob/main/metrics.svg)
 
