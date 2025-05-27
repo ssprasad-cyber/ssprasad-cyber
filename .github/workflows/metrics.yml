@@ -1,0 +1,27 @@
+name: GitHub Metrics
+
+on:
+  schedule: [{ cron: "0 0 * * *" }]  # Every day at midnight
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ssprasad-cyber
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          
+          # Plugins
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_contributors: yes
+          plugin_lines: yes
+          plugin_achievements: yes
+          plugin_traffic: yes
+          plugin_habits: yes
+          plugin_stars: yes
