@@ -71,5 +71,8 @@ I am a frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ssprasad-cyber&theme=dark&background=000000)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api?username=ssprasad-cyber&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=ssprasad-cyber&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=9ecbff)
+
+
+
 
