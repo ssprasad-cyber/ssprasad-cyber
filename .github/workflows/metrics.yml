@@ -25,3 +25,6 @@ jobs:
           plugin_traffic: yes
           plugin_habits: yes
           plugin_stars: yes
+
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: 0
