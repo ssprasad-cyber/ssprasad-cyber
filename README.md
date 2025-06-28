@@ -22,7 +22,7 @@
 
 <div align="center" >
     <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="20%"></img>
-    <img src="https://sdmntprwestus.oaiusercontent.com/files/00000000-5014-5230-a3e0-16fd9842ab4c/raw?se=2025-04-05T14%3A28%3A57Z&sp=r&sv=2024-08-04&sr=b&scid=b373b301-2678-5103-910c-6a7f991a5178&skoid=e872f19f-7b7f-4feb-9998-20052dec61d6&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-05T13%3A03%3A07Z&ske=2025-04-06T13%3A03%3A07Z&sks=b&skv=2024-08-04&sig=F1NzHB4GvjXlmK2LNUb1Fz5bh7UkUeFwXTyaWr5oEKg%3D" width="50%"></img>
+    <img src="/assets/retro.png" width="50%"></img>
      <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="20%"></img>
  </div>
 <hr>
