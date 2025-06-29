@@ -21,9 +21,9 @@
 </div >
 
 <div align="center" >
-    <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="20%"></img>
-    <img src="/assets/retro.png" width="50%"></img>
-     <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="20%"></img>
+    <img src="/assets/octocat-1751170381793.png" width="25%"></img>
+    <img src="/assets/retro.png" width="40%"></img>
+     <img src="/assets/octocat-1751176859210 (2).png" width="25%"></img>
  </div>
 <hr>
 
