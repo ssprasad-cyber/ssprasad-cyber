@@ -22,7 +22,7 @@
 
 <div align="center" >
     <img src="/assets/octocat-1751170381793.png" width="25%"></img>
-    <img src="/assets/retro.png" width="40%"></img>
+    <img src="/assets/retro.gif" width="40%"></img>
      <img src="/assets/octocat-1751176859210 (2).png" width="25%"></img>
  </div>
 <hr>
